@@ -9,3 +9,9 @@
 def greet():
     print("Hello, World!")
 greet()
+## My Task List
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
